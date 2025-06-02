@@ -66,9 +66,9 @@ export const info = {
         // Just change the links so that they lead to your social profiles.
 
     ],
-    bio: "Hello! I'm Joshua. I'm Full-Stack Developer at Makopa Innovations & Tech. I studied BS in Information Technology at STI College Balayan, and I believe artificial intelligence will inevitably rule us all one day. You should hire me!",
+    bio: "Hello! I'm Joshua. I'm Full-Stack Developer at Makopa Innovations & Tech. I studied BS in Information Technology at STI College Balayan, I love coffee, and I believe artificial intelligence will inevitably rule us all one day. You should hire me!",
     skills: {
-        proficientWith: ['PHP', 'Laravel', 'JavaScript',' jQuery', 'Node.js', 'MySQL', 'HTML & CSS', 'Bootstrap', 'API development', 'API integration'],
+        proficientWith: ['PHP', 'Laravel', 'JavaScript', ' jQuery', 'Node.js', 'MySQL', 'HTML & CSS', 'Bootstrap', 'API development', 'API integration'],
         exposedTo: ['Vue.js', 'React', 'Flutter', 'MongoDB']
     },
     hobbies: [{
